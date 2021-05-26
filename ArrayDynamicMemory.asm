@@ -983,4 +983,4 @@ procedureExitMain:
 	li $v0, 10												# Load immediate code 10: exit service for system
 	syscall													# Issue a system call to stop program from running
 
-# End of DynamicMemorySortingAlgorithms.asm
+# End of ArrayDynamicMemory.asm

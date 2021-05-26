@@ -1,7 +1,7 @@
 Assembly Array Dynamic Memory
 =============
 
-MIPS assembly implementation of Array Dynamic Memory with sorting algorithms
+MIPS assembly implementation of Array Dynamic Memory using sorting algorithms
 - MergeSort
 - QuickSort
 - SelectionSort
